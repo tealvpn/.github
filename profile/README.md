@@ -21,11 +21,11 @@
 
 **Connects where others can't.** When a network blocks one way in, Teal quietly tries the next one, until it is through.
 
-**No browsing logs.** Teal does not keep the sites you visit or the apps you use.
+**No browsing logs.** Teal does not keep the sites you visit or the apps you use. Read the [privacy policy](https://tealvpn.com/privacy) and the [transparency page](https://tealvpn.com/transparency).
 
-**Free every day.** A daily allowance with no card and no ads. Teal Pro opens every location with no data limit.
+**Free every day.** A daily allowance with no card and no ads. Teal Pro opens every location with no data limit. [Get Teal VPN](https://tealvpn.com).
 
-**One account, every device.** Android, Windows, Mac, Linux and iPhone, with locations in Europe, North America and Asia.
+**One account, every device.** A [VPN for Android](https://tealvpn.com/android), [Windows](https://tealvpn.com/windows), [Mac](https://tealvpn.com/mac), [Linux](https://tealvpn.com/linux), [iPhone](https://tealvpn.com/ios), [Android TV](https://tealvpn.com/android-tv) and [Chromebook](https://tealvpn.com/chromebook), with [locations](https://tealvpn.com/locations) in Europe, North America and Asia.
 
 ### See it
 
