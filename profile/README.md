@@ -35,8 +35,7 @@
   <img src="https://raw.githubusercontent.com/tealvpn/android/main/screenshots/protection.webp" alt="Android: protection" width="220">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tealvpn/windows/main/screenshots/connect.webp" alt="Windows: connected" width="440">
-  <img src="https://raw.githubusercontent.com/tealvpn/mac/main/screenshots/locations.webp" alt="Mac: locations" width="440">
+  <img src="https://raw.githubusercontent.com/tealvpn/windows/main/screenshots/connect.webp" alt="Windows: connected" width="680">
 </p>
 
 ### Check that a download is genuine
