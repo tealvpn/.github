@@ -12,7 +12,7 @@
   <a href="https://play.google.com/store/apps/details?id=com.tealvpn.client"><img src="https://raw.githubusercontent.com/tealvpn/.github/main/profile/btn-play.png" alt="Get it on Google Play" height="48"></a>
 </p>
 <p align="center">
-  <sub>Also: <a href="https://github.com/tealvpn/windows/releases/latest/download/TealVPN-Setup-arm64.exe">Windows on ARM</a> · <a href="https://github.com/tealvpn/linux/releases/latest/download/teal-vpn_arm64.deb">Linux on ARM</a> · <a href="https://tealvpn.com/android-tv">Android TV</a> · <a href="https://tealvpn.com/chromebook">Chromebook</a> · <a href="https://tealvpn.com/ios">iPhone and iPad</a> · <a href="https://tealvpn.com">tealvpn.com</a></sub>
+  <sub>Also: <a href="https://github.com/tealvpn/windows/releases/latest/download/TealVPN-Setup-arm64.exe">Windows on ARM</a> · <a href="https://github.com/tealvpn/linux/releases/latest/download/teal-vpn_arm64.deb">Linux on ARM</a> · <a href="https://tealvpn.com/android-tv">Android TV</a> · <a href="https://tealvpn.com/chromebook">Chromebook</a> · <a href="https://tealvpn.com/ios">iPhone and iPad (soon)</a> · <a href="https://tealvpn.com">tealvpn.com</a></sub>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 **Free every day.** A daily allowance with no card and no ads. Teal Pro opens every location with no data limit. [Get Teal VPN](https://tealvpn.com).
 
-**One account, every device.** A [VPN for Android](https://tealvpn.com/android), [Windows](https://tealvpn.com/windows), [Mac](https://tealvpn.com/mac), [Linux](https://tealvpn.com/linux), [iPhone](https://tealvpn.com/ios), [Android TV](https://tealvpn.com/android-tv) and [Chromebook](https://tealvpn.com/chromebook), with [locations](https://tealvpn.com/locations) in Europe, North America and Asia.
+**One account, every device.** A [VPN for Android](https://tealvpn.com/android), [Windows](https://tealvpn.com/windows), [Mac](https://tealvpn.com/mac), [Linux](https://tealvpn.com/linux), [Android TV](https://tealvpn.com/android-tv) and [Chromebook](https://tealvpn.com/chromebook) ([iPhone](https://tealvpn.com/ios) soon), with [locations](https://tealvpn.com/locations) in Europe, North America and Asia.
 
 ### See it
 
