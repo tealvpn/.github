@@ -12,7 +12,7 @@
   <a href="https://play.google.com/store/apps/details?id=com.tealvpn.client"><img src="https://raw.githubusercontent.com/tealvpn/.github/main/profile/btn-play.png" alt="Get it on Google Play" height="48"></a>
 </p>
 <p align="center">
-  <sub>Command line: Mac <code>brew install --cask tealvpn/tap/teal-vpn</code> (<a href="https://github.com/tealvpn/homebrew-tap">tap</a>) · Windows <code>winget install Fxolio.TealVPN</code> (in review) · <code>choco install teal-vpn</code> (in review) · <a href="https://github.com/tealvpn/scoop-bucket">Scoop bucket</a> · Linux <code>sudo apt install teal-vpn</code> (<a href="https://tealvpn.com/linux#apt">repository</a>)</sub>
+  <sub>Command line: Mac <code>brew install --cask tealvpn/tap/teal-vpn</code> (<a href="https://github.com/tealvpn/homebrew-tap">tap</a>) · Windows <code>winget install Fxolio.TealVPN</code> (in review) · <code>choco install teal-vpn</code> · <a href="https://github.com/tealvpn/scoop-bucket">Scoop bucket</a> · Linux <code>sudo apt install teal-vpn</code> (<a href="https://tealvpn.com/linux#apt">repository</a>)</sub>
 </p>
 <p align="center">
   <sub>Also: <a href="https://github.com/tealvpn/windows/releases/latest/download/TealVPN-Setup-arm64.exe">Windows on ARM</a> · <a href="https://github.com/tealvpn/linux/releases/latest/download/teal-vpn_arm64.deb">Linux on ARM</a> · <a href="https://tealvpn.com/android-tv">Android TV</a> · <a href="https://tealvpn.com/chromebook">Chromebook</a> · <a href="https://tealvpn.com/ios">iPhone and iPad (soon)</a> · <a href="https://tealvpn.com">tealvpn.com</a></sub>
